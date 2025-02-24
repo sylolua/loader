@@ -71,9 +71,9 @@ Tabs.Main:AddButton({
 })
 
 Tabs.Main:AddButton({
-	Title = "Get Key (Lootlabs)",
+	Title = "Get Key (Work.Ink)",
 	Callback = function()
-		setclipboard("https://ads.luarmor.net/get_key?for=Nut_Hub-fjnmjqYBLIBT")
+		setclipboard("https://ads.luarmor.net/get_key?for=Nut_Hub-ochcnJaKTyLa")
 		notify("Copied To Clipboard", "Key Link has been copied to your clipboard", 16)
 	end,
 })
