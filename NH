@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/32b7e7ca1d358a27f92ad89e781f7258afac22666e07bc8d21194e496429eff1/download"))()
+loadstring(game:HttpGet("https://beta.vonalia.com/Obfuscate/qrto"))()
